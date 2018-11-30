@@ -4,7 +4,7 @@ plugins {
     kotlin("jvm") version "1.3.10"
 }
 
-group = "toliner"
+group = "toliner.utils"
 version = "0.1.0"
 
 repositories {
